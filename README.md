@@ -37,6 +37,6 @@ React: biblioteca JavaScript para construir interfaces de usuario eficientes y r
 
 ## visitar
 <h2>
-  <a href="https://leoromero1.github.io/ToDoList/">Visitar</a>
+  <a href="https://leoromero1.github.io/TaTeTi/">Visitar</a>
 </h2>
 
